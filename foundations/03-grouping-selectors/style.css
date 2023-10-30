@@ -1,0 +1,21 @@
+.Buttons {
+    font-family: Helvetica, Times New Roman, sans-serif;
+    font-size: 28px;
+    padding: 0.2em;
+}
+
+.Dark {
+    background-color: black;
+    color: white;
+    border: 2px solid;
+    border-color: gray;
+    padding: 0.2em;
+}
+
+.Yellow {
+    background-color: yellow;
+    color: black;
+    border: 2px solid;
+    border-color: gray;
+    padding: 0.2em;
+}
